@@ -12,5 +12,6 @@ public class gitTest {
         System.out.println("dddd");
         System.out.println("sadf");
         System.out.println("ttt");
+        System。out.println("pushtest");
     }
 }
