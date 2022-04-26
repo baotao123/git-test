@@ -6,6 +6,7 @@ package com.bbt;
  */
 public class gitTest {
     public static void main(String[] args) {
+        String s;
         System.out.println("hello");
         System.out.println("sdf");
         System.out.println("ssds");
